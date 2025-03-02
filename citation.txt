@@ -1,0 +1,5 @@
+Vercel's Random Word API:
+https://random-word-api.vercel.app
+
+Merriam-Webster's Collegiate Dictionary with Audio:
+https://dictionaryapi.com/products/api-collegiate-dictionary
